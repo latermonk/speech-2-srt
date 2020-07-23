@@ -26,11 +26,18 @@ source venv/bin/activate
 **new add line**
 
 pip install -I https://github.com/pypa/pip/archive/master.zip#egg=pip
+
+
+`pip install --upgrade setuptools`
+
+
 ```
 
 ```
 pip3 install -r requirements.txt
 ```
+
+
 
 #  HELP 
 
