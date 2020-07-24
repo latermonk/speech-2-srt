@@ -1,3 +1,6 @@
+
+![serverless-arch-4-speech2txt](_image/serverless-arch-4-speech2txt.png)
+
 # speech-2-srt
 
 
